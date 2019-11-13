@@ -14,13 +14,13 @@ void setup()
 
 void loop()
 {
-	cm = myHCSR04.ping_cm();
+	cm = myHCSR04.ping_cm();// make "cm" as variable 
 	Serial.print("cm: ");
 	Serial.println(cm);
-	if (cm != 0)
+	if (cm != 0)// if cm is not zero then do this 
 	{
-		if (cm > 10)
-			myservo.write(180);
+		if (cm > 10)// if cm is greater than 10 turn on the red light
+			myservo.write(180)//
 		else
 			myservo.write(90);
 	}
