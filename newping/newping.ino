@@ -19,7 +19,7 @@ void loop()
 	Serial.println(cm);
 	if (cm != 0)// if cm is not zero then do this 
 	{
-		if (cm > 10)// if cm is greater than 10 turn on the red light
+		if (cm > 10)// if cm is greater than 10 turn the servo
 			myservo.write(180)//
 		else
 			myservo.write(90);
