@@ -4,7 +4,8 @@ New ping and Hello functions are 2 seprate assigments. New ping was to learn how
 
 ![ NewPing](newping/Captu      re.PNG)
 
-    
+## What I Learned
+For hello functions I learned how to use functions     
 
 
 test test
