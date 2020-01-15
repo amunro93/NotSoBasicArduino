@@ -6,3 +6,5 @@ New ping and Hello functions are 2 seprate assigments. New ping was to learn how
 
 ## What I Learned
 For hello functions I learned how to use functions     
+
+![NewPing](newping/Capture.PNG)
