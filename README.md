@@ -21,4 +21,5 @@ New ping is an assignment that uses the NewPing libarary to recive time value wh
 - I Learned how to use NewPing library
 - I learned how to set up a ultrasonic sensor 
 
+## Wiring Diagram 
 ![NewPing](newping/Capture.PNG)
